@@ -1,0 +1,10 @@
+title: Avenir Academia
+email: andrew@andrewyu.org
+description: >-
+  An attempt to bring free software to the masses. See the about page for more information.
+baseurl: ""
+url: "https://aveniracademia.org"
+
+theme: minima
+plugins:
+  - jekyll-feed
