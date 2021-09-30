@@ -1,0 +1,22 @@
+\documentclass[twocolumn]{article}
+\title{A Few Principles Around Computers}
+\author{Andrew Yu}
+\date{\today}
+\newcommand{\etc}{\emph{et cetera}}
+% TODO: Decide if this should be \emph or \textit.
+\begin{document}
+\maketitle
+The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, \etc{}.
+
+In the COVID-19 pandemic, computers help people work from home, which prevented the economy from going into a full-blown stall. As a middle school student, I saw the department of education of Shanghai hire teachers to record lectures which get distributed over TV and the Internet. Schools use meeting software, such as Tencent~Meetings, to teach students at home. If it wasn't for the Internet, so many people would have lost jobs, and society would be inoperative.
+% TODO: Does ``department of education'' need caps?
+
+Most of the software people use these days are Proprietary Software---nobody except the copyright holder and specially authorized people are allowed to edit the program to their needs, audit how the program runs, etc.
+% TODO: Maybe a tie needs to be used instead of spaces in ``Proprietary Software''.
+
+Note that, in this document, \emph{free} always refers to \emph{freedom}, rather than \emph{price}, unless otherwise specified.
+
+\LaTeX{} was used to typeset this document. I argue that \LaTeX, though a sophisticated, free and high-quality typesetting system, is poorly optimized. For example, to get cross references right, \LaTeX{} has to compile the document twice. The first time it compiles the document, recording all cross references. The second time is when it actually writes the correct cross reference numbers into the output. Compiling two times is redundant---it makes sense to go through the cross references twice to get them right, but it is utterly unnecessary to compile and produce output twice. Counting references is a fast task, but when it's mixed up with producing output, a slow task, the overall speed decreases dramatically.
+% TODO: This paragraph's logic isn't that clear.
+
+\end{document}
