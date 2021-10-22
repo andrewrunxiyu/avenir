@@ -33,8 +33,7 @@ If you are currently using Windows, visit [The FSF's guide for Windows users to 
 If you are currently using macOS, visit [The FSF's guide for macOS users to switch to free software](https://www.fsf.org/working-together/moving/mac-os-x)
 
 # Where can I learn more?
-Below is a video of Richard Stallman talking about free software.
-<video src="http://audio-video.gnu.org/video/rms-2020-12-04-waterloo-why-operating-systems-and-other-software-should-be-free.webm" alt="Richard Stallman's Talk" width="100%">
+<a href="http://audio-video.gnu.org/video/rms-2020-12-04-waterloo-why-operating-systems-and-other-software-should-be-free.webm">Richard Stallman's Talk on Free Operating Systems</a>
 
 # Questions? Suggestions?
 Any suggestions to this may be submitted via one of the following ways:
