@@ -1,4 +1,188 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://aveniracademia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aveniracademia.org/" rel="alternate" type="text/html" /><updated>2021-10-22T22:00:56+08:00</updated><id>https://aveniracademia.org/feed.xml</id><title type="html">Avenir Academia</title><subtitle>An attempt to bring free software to the masses. See the about page for more information.</subtitle><entry><title type="html">On Free Software, Education in China and the COVID-19 Pandemic</title><link href="https://aveniracademia.org/2021/10/20/education.html" rel="alternate" type="text/html" title="On Free Software, Education in China and the COVID-19 Pandemic" /><published>2021-10-20T00:00:00+08:00</published><updated>2021-10-20T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/20/education</id><content type="html" xml:base="https://aveniracademia.org/2021/10/20/education.html">&lt;p&gt;I am a secondary school student from Shanghai, China.  This email
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://aveniracademia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aveniracademia.org/" rel="alternate" type="text/html" /><updated>2021-10-23T19:33:44+08:00</updated><id>https://aveniracademia.org/feed.xml</id><title type="html">Avenir Academia</title><subtitle>An attempt to bring free software to the masses. See the about page for more information.</subtitle><author><name>Andrew Yu, et. al.</name></author><entry><title type="html">Fwd: Pumpkin Markets and One Bad Apple</title><link href="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html" rel="alternate" type="text/html" title="Fwd: Pumpkin Markets and One Bad Apple" /><published>2021-10-21T00:00:00+08:00</published><updated>2021-10-21T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple</id><content type="html" xml:base="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html">&lt;p&gt;This message is fowarded from the Free Software Foundation’s
+“Free Software Supporter” mailing list. The original message is
+as below.&lt;/p&gt;
+
+&lt;p&gt;Dear Free Software Supporter,&lt;/p&gt;
+
+&lt;p&gt;Imagine your local farmers market: every Saturday the whole town
+comes together to purchase fresh and homemade goods, enjoy the
+entertainment, and find that there is always something for
+everyone. Whatever you need, you can find it here, and anyone can
+sign up to have their own little stand. It is a wonderful place,
+or so it seems. Now, imagine starting out as a pumpkin farmer,
+and you want to sell your pumpkins at this market. The market
+owner asks 30% of every pumpkin that you sell. It’s steep, but
+the market owner – we’ll call him &lt;em&gt;Mr. Apple&lt;/em&gt; – owns all the
+markets in your area, so you have little choice.&lt;/p&gt;
+
+&lt;p&gt;Let’s continue this analogy and imagine that, since it is a
+little hard for you to make ends meet, you decide to tell your
+customers that they can come visit you at your farm to purchase
+pumpkins. &lt;em&gt;Mr. Apple&lt;/em&gt; overhears and shuts your stand down. You
+explain that your business cannot be profitable this way, but the
+grumpy market owner says that you can either comply or find
+another place. At the end of your rope, you look for information
+about starting your own farmers market, but it seems &lt;em&gt;Mr. Apple&lt;/em&gt;
+owns every building in town.&lt;/p&gt;
+
+&lt;p&gt;In the midst of Apple announcing its new products, attention is
+drawn away from its ongoing battle to maintain its subjugation
+over users globally.  The Netherlands’ &lt;a href=&quot;https://www.theglobeandmail.com/business/international-business/european-business/article-dutch-watchdog-finds-apples-app-store-payment-rules-are-anti/&quot;&gt;Authority for Consumers
+and Markets (ACM)&lt;/a&gt; last month informed the U.S. technology
+giant of its decision that the rules around the in-app payment
+system are anticompetitive, making it the first antitrust
+regulator to conclude that the company has abused market power in
+the App Store. And while Apple is appealing this verdict, the
+European Union is charging the company with &lt;a href=&quot;https://www.thehindu.com/sci-tech/technology/apple-to-face-eu-antitrust-charge-over-nfc-chip/article36871254.ece&quot;&gt;another antitrust
+claim&lt;/a&gt; concerning the App Store.&lt;/p&gt;
+
+&lt;p&gt;Globally, about 17% of all mobile phone users have an iPhone, but
+Apple products and the iOS operating system are more popular in
+the West, which has a substantial effect on those numbers. To
+illustrate, in March 2021, &lt;a href=&quot;https://www.statista.com/statistics/236550/percentage-of-us-population-that-own-a-iphone-smartphone/&quot;&gt;47% of all smartphone users&lt;/a&gt; in
+the United States were iPhone users. Apple holds 56.7% of the
+United States mobile operating system market share, and in Europe
+this is 30% (increased from almost 27% last year). It will come
+as no surprise that Google Play and the Apple App Store are the
+two main distributors of mobile apps globally. These numbers
+illustrate further what our pumpkin farmer experiences: You
+either play the game, follow the rules, and pay the fees
+&lt;a href=&quot;https://www.tweaktown.com/news/81567/apples-30-app-store-commission-is-supracompetitive-court-declares/index.html&quot;&gt;arbitrarily determined by Apple&lt;/a&gt;, or you lose access to your
+potential customers. However, you &lt;em&gt;can&lt;/em&gt; install a 3rd party
+application market on Android phones. One of them, called
+&lt;a href=&quot;https://f-droid.org/&quot;&gt;F-Droid&lt;/a&gt;, is one that exclusively distributes free software.&lt;/p&gt;
+
+&lt;p&gt;As the judge in the recent &lt;em&gt;&lt;a href=&quot;https://s3.documentcloud.org/documents/21060631/apple-epic-judgement.pdf&quot;&gt;Epic Games v Apple&lt;/a&gt;&lt;/em&gt; lawsuit in
+the United States stated in her nearly 200 page court
+opinion, “not every business is entitled to have access to what
+is effectively shelf space if they cannot afford to pay a
+commission to the platform host.” The positions of Apple or
+Google are hard to fight, because both organizations are
+extremely powerful and they are financially able to protect this
+power. Another reason is that court and governments globally lack
+in-house technical expertise, they have to rely on
+so-called “experts,” who have immense influence on the
+verdict. But most importantly, legislation on issues pertaining
+to technology is so far behind that legal conclusions are
+difficult to draw, and mostly appealed.&lt;/p&gt;
+
+&lt;p&gt;Why is it so hard to show that Apple is in the wrong here? &lt;em&gt;Epic
+Games v Apple&lt;/em&gt; sheds some light on this. To prove Apple was
+monopolizing the market, it had to be established first what
+market Apple would have this monopoly in. Apple has a hand in
+many different markets. To name a few, the mobile phone market,
+iOS apps, and the bigger gaming market. In this instance, it was
+settled that the market was mobile game payments. In the
+aforementioned case in the Netherlands, the focus was reduced to
+primarily dating market apps.&lt;/p&gt;
+
+&lt;p&gt;These results &lt;a href=&quot;https://www.theverge.com/2021/9/12/22667694/epic-v-apple-trial-fortnite-judge-yvonne-gonzalez-rogers-final-ruling-injunction-breakdown&quot;&gt;affect the verdict greatly&lt;/a&gt;, “Epic claimed
+Apple had abused a monopoly on the iOS app ecosystem; Apple
+claimed Fortnite was playing in the more competitive overall
+digital game market.” The conclusion bypasses Apple’s control
+over users of mobile phones and the App Store any iOS user is
+controlled by, because Apple does not have a monopoly in &lt;em&gt;mobile
+gaming&lt;/em&gt;… yet.&lt;/p&gt;
+
+&lt;p&gt;Epic Games may have failed to demonstrate conclusively the
+monopolist position of Apple when it comes to mobile game
+payments, but according to Judge Yvonne Gonzalez Rogers of the
+United States District Court for the Northern District of
+California, “Apple’s anti-steering provisions hide critical
+information from consumers and illegally stifle consumer
+choice. When coupled with Apple’s incipient antitrust violations,
+these anti-steering provisions are anticompetitive and a
+nationwide remedy to eliminate those provisions is warranted.”
+This is a small victory for developers who would be allowed to
+link to other in-app purchases and could potentially bypass
+Apple’s cut. The case of &lt;em&gt;Epic Games v Apple&lt;/em&gt; is interesting
+because it shakes the position of Apple, but let’s not forget
+that Epic Games itself has no intention for its users to be any
+more free than Apple.&lt;/p&gt;
+
+&lt;p&gt;Nothing may come of this particular case either, as it will be
+&lt;a href=&quot;https://www.businessinsider.com/apple-is-appealing-epic-games-case-anti-steering-2021-10?international=true&amp;amp;r=US&amp;amp;IR=T&quot;&gt;held up in appeals&lt;/a&gt; for the coming years, but countries all
+over the world have come to realize that the position Apple has
+ascribed itself violates people’s rights, developer or
+otherwise. In addition to the new charges from the &lt;a href=&quot;https://edition.cnn.com/2021/04/30/tech/apple-eu-antitrust/index.html&quot;&gt;European
+Committee&lt;/a&gt;, a parallel initiative to the &lt;em&gt;Epic Games v Apple&lt;/em&gt;
+court ruling in the US is the &lt;a href=&quot;https://www.blumenthal.senate.gov/imo/media/doc/8.11.21%20-%20Open%20App%20Markets%20Act%20-%20Bill%20Text.pdf&quot;&gt;Open App Markets Act&lt;/a&gt;, proposed
+by Senators Amy Klobuchar, Richard Blumenthal, and Marsha
+Blackburn, which would place a variety of restrictions on major
+app marketplaces in order to protect competition. On August 31,
+&lt;a href=&quot;https://arstechnica.com/gadgets/2021/08/south-korea-law-forces-google-and-apple-to-open-up-app-store-payments/&quot;&gt;South Korea passed new regulations&lt;/a&gt; requiring Apple to accept
+alternate payments in their respective app stores. Apple has made
+other concessions in recent months as well, including
+allowing “reader apps,” any app that requires a subscription to
+use, to direct users to their own &lt;a href=&quot;https://appleinsider.com/articles/21/09/08/us-lawmakers-moving-forward-with-app-store-bill-despite-apple-changes&quot;&gt;Web sites for
+payments&lt;/a&gt;. That specific guideline change came in response to
+a probe by Japan’s Fair Trade Commission.&lt;/p&gt;
+
+&lt;p&gt;People, developers, and governments around the world are
+beginning to rise against Apple’s powerful and restrictive
+position. According to a timeline &lt;a href=&quot;https://www.theverge.com/22667242/apple-app-store-major-policy-changes-history&quot;&gt;The Verge&lt;/a&gt; put
+together, “Apple has had to change more App Store policies
+between August 26, 2021 to September 10, than in any other period
+in its history.” Apple is fighting to hold its grip on the App
+Store, because it increasingly delivers a large percentage of its
+annual profits at &lt;a href=&quot;https://moneyprofitreport.com/epic-games-court-ruling-unlikely-to-seriously-damage-apples-services-business/&quot;&gt;an immense margin&lt;/a&gt;. Apple (and Google)
+often cite &lt;a href=&quot;https://edition.cnn.com/2020/09/25/tech/apple-fortnite-epic-games-lawsuit/index.html&quot;&gt;safety and keeping users secure from malicious
+software&lt;/a&gt; as the main reasons why they should have the
+unbridled right to control how and which software is distributed
+to millions of users, and often also the main reason for imposing
+Digital Restrictions Management (DRM), but at a margin estimated
+at nearly 72%, you would think that they can afford to protect
+users &lt;em&gt;and&lt;/em&gt; their freedom.&lt;/p&gt;
+
+&lt;p&gt;Threatening danger, fraud, or malware, are all clever and often
+used ways of scaring users into agreeing to ever more restricting
+user terms and conditions. The cost of developing ways to keep
+users safe is not about finances, but power. Besides limiting
+developers financially, they can also not distribute free
+software via Apple. Again, under the guise of “protection,”
+Apple’s App Store only allows technologically restricted
+software. And make no mistake, despite misleading advertising,
+there is also &lt;a href=&quot;https://www.fsf.org/campaigns/apple&quot;&gt;no freedom for users&lt;/a&gt; in the way Apple runs
+its App Store. We must remember that having freedom is
+not “insecure,” rather, it is a &lt;a href=&quot;https://www.fsf.org/bulletin/2019/spring/its-not-just-about-privacy&quot;&gt;precondition for true
+privacy&lt;/a&gt;. Without access to source code, we can never verify
+privacy, or safety on Apple’s devices.&lt;/p&gt;
+
+&lt;p&gt;Every security claim about the benefits of vetting installable
+software is actually an argument for a world where the &lt;em&gt;user can
+choose which security vetting entity to trust&lt;/em&gt;. This world
+requires free software. You can think of this as the monopoly
+Apple has – a monopoly on who gets to decide what software is
+installable and usable on iOS devices. There are no significant
+competitors because Apple threatens them with legal action, and
+takes extreme technical measures to stop users from trying them
+out.&lt;/p&gt;
+
+&lt;p&gt;Instead of trying to maintain the status quo one court case after
+the other, it is time to evolve, Apple, move forward &lt;em&gt;with&lt;/em&gt;
+freedom, not against it. As one of the most successful and
+richest companies in the world, we can not let it tell us that
+absolute control over our user freedom is a justifiable price to
+pay to make sure its technology is up to par. Users deserve the
+freedom to decide what programs they want to install and run on
+their devices. Developers deserve a market place where they can
+distribute their work. Apple is trying to hold on to the power
+they currently have, but we have to rally &lt;a href=&quot;https://www.defectivebydesign.org/apple#email&quot;&gt;for change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If we do, Apple will have no choice but to stop trying to hold
+users hostage on its platforms. But we also need to keep our eyes
+on the goal. Just because some parties are fighting to take power
+away from Apple, we cannot sit back and let power transfer from
+one proprietary organization to another. Governments need to take
+measures and proper legislation needs to be established, not to
+assure financial gain for anyone, but for free software
+developers to distribute and fund their work, and, and for the
+freedom for users to control our own devices, to install and to
+run the software we choose.&lt;/p&gt;
+
+&lt;p&gt;Zoë Kooyman
+Program Manager
+Free Software Foundation&lt;/p&gt;</content><author><name>Zoë Kooyman</name></author><summary type="html">This message is fowarded from the Free Software Foundation’s “Free Software Supporter” mailing list. The original message is as below.</summary></entry><entry><title type="html">On Free Software, Education in China and the COVID-19 Pandemic</title><link href="https://aveniracademia.org/2021/10/20/education.html" rel="alternate" type="text/html" title="On Free Software, Education in China and the COVID-19 Pandemic" /><published>2021-10-20T00:00:00+08:00</published><updated>2021-10-20T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/20/education</id><content type="html" xml:base="https://aveniracademia.org/2021/10/20/education.html">&lt;p&gt;I am a secondary school student from Shanghai, China.  This email
 discusses the problems I discovered in the Chinese educational system,
 in terms of students’ right to freedom in computing and options to
 control the COVID-19 pandemic from the standpoint of a person living in
@@ -148,4 +332,37 @@ Andrew Yu&lt;/p&gt;
 
 &lt;p&gt;Verbatim redistribution of this memo is allowed worldwide, but
 changing it is not allowed, as this is not a technical memo, rather,
-a politicol-philosophical opinion paper.&lt;/p&gt;</content><author><name>Andrew Yu</name></author><summary type="html">I am a secondary school student from Shanghai, China. This email discusses the problems I discovered in the Chinese educational system, in terms of students’ right to freedom in computing and options to control the COVID-19 pandemic from the standpoint of a person living in China.</summary></entry></feed>
+a politicol-philosophical opinion paper.&lt;/p&gt;</content><author><name>Andrew Yu</name></author><summary type="html">I am a secondary school student from Shanghai, China. This email discusses the problems I discovered in the Chinese educational system, in terms of students’ right to freedom in computing and options to control the COVID-19 pandemic from the standpoint of a person living in China.</summary></entry><entry><title type="html">What is Free Software?</title><link href="https://aveniracademia.org/whatisfreesoftware/" rel="alternate" type="text/html" title="What is Free Software?" /><published>2021-10-20T00:00:00+08:00</published><updated>2021-10-20T00:00:00+08:00</updated><id>https://aveniracademia.org/free-software</id><content type="html" xml:base="https://aveniracademia.org/whatisfreesoftware/">&lt;h1 id=&quot;what-is-libre-software&quot;&gt;What is libre software?&lt;/h1&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;“Free software” means software that respects users’ freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”. We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis.&lt;/p&gt;
+
+  &lt;p&gt;You may have paid money to get copies of a free program, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Libre software is software that respects the freedom of its users. The &lt;a href=&quot;https://fsf.org&quot;&gt;Free Software Foundation&lt;/a&gt; calls it “Free Software”.&lt;/p&gt;
+
+&lt;p&gt;You may have heard people referring to it as “Open Source Software”. According to &lt;a href=&quot;https://www.gnu.org/philosophy/open-source-misses-the-point.en.html&quot;&gt;“Why Open Source Misses the Point of Free Software”&lt;/a&gt; by &lt;a href=&quot;https://stallman.org&quot;&gt;Richard Stallman&lt;/a&gt; at the GNU project, the term “Open Source” does not explain it correctly. However, he notes that the term “Libre Software” is aligned with “Free Software”, though “Libre” is not plain English.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-is-better-than-proprietary-software-alternatively-what-is-wrong-with-proprietary-software-that-isnt-true-with-libre-software&quot;&gt;Why is better than proprietary software? (Alternatively, what is wrong with proprietary software that isn’t true with libre software?)&lt;/h1&gt;
+&lt;p&gt;You might think that since nonfree software is so popular, there is a good reason to use it.&lt;/p&gt;
+
+&lt;p&gt;In some sense, that is (sadly) true. People use proprietary operating systems like Windows, because they are compatible with the software that came first—proprietary software. This is partly due to the prominence of proprietary software developers rising since the 1980s. The Free Software Movement started later, and we need to catch up.&lt;/p&gt;
+
+&lt;p&gt;Most people, which may or may not include you, almost exclusively use proprietary software. Microsoft Windows, macOS, Microsoft Office, etc. You name it. These pieces of software are not libre software—they do not give you any permission to read, edit, or use their code in any way, shape or form. This results in the user—even those with exceptional programming abilities—unable to clearly know what is going on in the program they are using. What if the program is selling their users’ data? What if they are attempting to use that data to manipulate the users’ minds? We have no way of knowing, since even a programmer couldn’t figure it out without access to the source code.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, libre software allows anybody to view the source code. With minimum programming knowledge, they could easily know what is going on in the program. They could also add features to it, be it developed by themself or by others who are willing to share their code.&lt;/p&gt;
+
+&lt;p&gt;This gives users absolute control over their computing, a.k.a. freedom, along with much more privacy. You don’t have to worry about being manipulated by someone who is willing to sell your information to everyone.&lt;/p&gt;
+
+&lt;h1 id=&quot;then-how-do-i-get-started&quot;&gt;Then how do I get started?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you are currently using Windows, visit &lt;a href=&quot;https://www.fsf.org/working-together/moving/windows&quot;&gt;The FSF’s guide for Windows users to switch to free software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;If you are currently using macOS, visit &lt;a href=&quot;https://www.fsf.org/working-together/moving/mac-os-x&quot;&gt;The FSF’s guide for macOS users to switch to free software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;where-can-i-learn-more&quot;&gt;Where can I learn more?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://audio-video.gnu.org/video/rms-2020-12-04-waterloo-why-operating-systems-and-other-software-should-be-free.webm&quot;&gt;Richard Stallman’s Talk on Free Operating Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Subscribe to this website using ways described on &lt;a href=&quot;https://aveniracademia.org/about/&quot;&gt;the About page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Andrew Yu</name></author><summary type="html">What is libre software? “Free software” means software that respects users’ freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”. We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis. You may have paid money to get copies of a free program, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.</summary></entry></feed>
