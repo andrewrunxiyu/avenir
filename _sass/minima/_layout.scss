@@ -210,16 +210,17 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1);
 }
 
 .post-list {
   margin-left: 0;
   list-style: none;
 
-  > li {
+/* > li {
     margin-bottom: $spacing-unit;
   }
+  */
 }
 
 .post-meta {
@@ -228,8 +229,8 @@
 }
 
 .post-link {
-  display: block;
-  @include relative-font-size(1.5);
+  //display: block;
+  @include relative-font-size(1);
 }
 
 

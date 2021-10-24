@@ -2,8 +2,7 @@ title: Avenir Academia
 author: Andrew Yu, et. al.
 author_email: andrew@andrewyu.org
 description: >-
-  An attempt to bring free software to the masses. See the about page for more information.
-  All content is under CC BY-SA, any version.
+  An attempt to bring free software to the masses.
 baseurl: ""
 url: "https://aveniracademia.org"
 
@@ -14,3 +13,5 @@ plugins:
 nav:
 - title: About
   url: /about
+
+# show_excerpts: true

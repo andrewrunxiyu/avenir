@@ -1,5 +1,5 @@
 ---
-title: "Fwd: Pumpkin Markets and One Bad Apple"
+title: "Pumpkin Markets and One Bad Apple"
 author: "Zoë Kooyman"
 layout: post
 ---

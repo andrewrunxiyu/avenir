@@ -1,4 +1,579 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://aveniracademia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aveniracademia.org/" rel="alternate" type="text/html" /><updated>2021-10-24T11:56:49+08:00</updated><id>https://aveniracademia.org/feed.xml</id><title type="html">Avenir Academia</title><subtitle>An attempt to bring free software to the masses. See the about page for more information.</subtitle><author><name>Andrew Yu, et. al.</name></author><entry><title type="html">Fwd: Pumpkin Markets and One Bad Apple</title><link href="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html" rel="alternate" type="text/html" title="Fwd: Pumpkin Markets and One Bad Apple" /><published>2021-10-21T00:00:00+08:00</published><updated>2021-10-21T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple</id><content type="html" xml:base="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html">&lt;p&gt;This message is fowarded from the Free Software Foundation’s
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://aveniracademia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aveniracademia.org/" rel="alternate" type="text/html" /><updated>2021-10-24T14:45:50+08:00</updated><id>https://aveniracademia.org/feed.xml</id><title type="html">Avenir Academia</title><subtitle>An attempt to bring free software to the masses.</subtitle><author><name>Andrew Yu, et. al.</name></author><entry><title type="html">Free Software Is Even More Important Now</title><link href="https://aveniracademia.org/2021/10/24/free-software-is-more-important-now.html" rel="alternate" type="text/html" title="Free Software Is Even More Important Now" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/24/free-software-is-more-important-now</id><content type="html" xml:base="https://aveniracademia.org/2021/10/24/free-software-is-more-important-now.html">&lt;p&gt;This is an article from the GNU Project by RMS, which I believe to be
+thought-provoking. The original article is at
+&lt;a href=&quot;https://www.gnu.org/philosophy/free-software-even-more-important.html&quot;&gt;https://www.gnu.org/philosophy/free-software-even-more-important.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since 1983, the Free Software Movement has campaigned for computer
+users’ freedom—for users to control the software they use, rather
+than vice versa. When a program respects users’ freedom and community,
+we call it “free software.”&lt;/p&gt;
+
+&lt;p&gt;We also sometimes call it “libre software” to emphasize that we’re
+talking about liberty, not price. Some proprietary (nonfree) programs,
+such as Photoshop, are very expensive; others, such as the Uber app, are
+available gratis—but that’s a minor detail. Either way, they give the
+program’s developer power over the users, power that no one should
+have.&lt;/p&gt;
+
+&lt;p&gt;Those two nonfree programs have something else in common: they are both
+&lt;em&gt;malware&lt;/em&gt;. That is, both have functionalities designed to mistreat the
+user. Proprietary software nowadays is often malware because &lt;a href=&quot;https://gnu.org/malware&quot;&gt;the
+developers’ power corrupts them&lt;/a&gt;. That directory lists around
+500 different malicious functionalities (as of January, 2021), but it is
+surely just the tip of the iceberg.&lt;/p&gt;
+
+&lt;p&gt;With free software, the users control the program, both individually and
+collectively. So they control what their computers do (assuming those
+computers are &lt;a href=&quot;https://gnu.org/philosophy/loyal-computers.html&quot;&gt;loyal&lt;/a&gt; and do what the
+users’ programs tell them to do).&lt;/p&gt;
+
+&lt;p&gt;With proprietary software, the program controls the users, and some
+other entity (the developer or “owner”) controls the program. So the
+proprietary program gives its developer power over its users. That is
+unjust in itself; moreover, it tempts the developer to mistreat the
+users in other ways.&lt;/p&gt;
+
+&lt;p&gt;Even when proprietary software isn’t downright malicious, its
+developers have an incentive to make it &lt;a href=&quot;https://observer.com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/&quot;&gt;addictive, controlling and
+manipulative&lt;/a&gt;.
+You can say, as does the author of that article, that the developers
+have an ethical obligation not to do that, but generally they follow
+their interests. If you want this not to happen, make sure the program
+is controlled by its users.&lt;/p&gt;
+
+&lt;p&gt;Freedom means having control over your own life. If you use a program to
+carry out activities in your life, your freedom depends on your having
+control over the program. You deserve to have control over the programs
+you use, and all the more so when you use them for something important
+in your life.&lt;/p&gt;
+
+&lt;p&gt;Users’ control over the program requires four &lt;a href=&quot;https://gnu.org/philosophy/free-sw.html&quot;&gt;essential
+freedoms&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(0) The freedom to run the program as you wish, for whatever purpose.&lt;/p&gt;
+
+&lt;p&gt;(1) The freedom to study the program’s “source code,” and change it,
+so the program does your computing as you wish. Programs are written by
+programmers in a programming language—like English combined with
+algebra—and that form of the program is the “source code.” Anyone who
+knows programming, and has the program in source code form, can read the
+source code, understand its functioning, and change it too. When all you
+get is the executable form, a series of numbers that are efficient for
+the computer to run but extremely hard for a human being to understand,
+understanding and changing the program in that form are forbiddingly
+hard.&lt;/p&gt;
+
+&lt;p&gt;(2) The freedom to make and distribute exact copies when you wish. (It
+is not an obligation; doing this is your choice. If the program is free,
+that doesn’t mean someone has an obligation to offer you a copy, or
+that you have an obligation to offer him a copy. Distributing a program
+to users without freedom mistreats them; however, choosing not to
+distribute the program—using it privately—does not mistreat anyone.)&lt;/p&gt;
+
+&lt;p&gt;(3) The freedom to make and distribute copies of your modified
+versions, when you wish.&lt;/p&gt;
+
+&lt;p&gt;The first two freedoms mean each user can exercise individual control
+over the program. With the other two freedoms, any group of users can
+together exercise &lt;em&gt;collective control&lt;/em&gt; over the program. With all four
+freedoms, the users fully control the program. If any of them is missing
+or inadequate, the program is proprietary (nonfree), and unjust.&lt;/p&gt;
+
+&lt;p&gt;Other kinds of works are also used for practical activities, including
+recipes for cooking, educational works such as textbooks, reference
+works such as dictionaries and encyclopedias, fonts for displaying
+paragraphs of text, circuit diagrams for hardware for people to build,
+and patterns for making useful (not merely decorative) objects with a 3D
+printer. Since these are not software, the free software movement
+strictly speaking doesn’t cover them; but the same reasoning applies
+and leads to the same conclusion: these works should carry the four
+freedoms.&lt;/p&gt;
+
+&lt;p&gt;A free program allows you to tinker with it to make it do what you want
+(or cease to do something you dislike). Tinkering with software may
+sound ridiculous if you are accustomed to proprietary software as a
+sealed box, but in the Free World it’s a common thing to do, and a good
+way to learn programming. Even the traditional American pastime of
+tinkering with cars is obstructed because cars now contain nonfree
+software.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-injustice-of-proprietariness&quot;&gt;The Injustice of Proprietariness&lt;/h3&gt;
+
+&lt;p&gt;If the users don’t control the program, the program controls the users.
+With proprietary software, there is always some entity, the developer or
+“owner” of the program, that controls the program—and through it,
+exercises power over its users. A nonfree program is a yoke, an
+instrument of unjust power.&lt;/p&gt;
+
+&lt;p&gt;In outrageous cases (though this outrage has become quite usual)
+&lt;a href=&quot;https://gnu.org/malware&quot;&gt;proprietary programs are designed to spy on the users, restrict them,
+censor them, and abuse them&lt;/a&gt;. For instance, the operating
+system of Apple &lt;a href=&quot;https://gnu.org/philosophy/why-call-it-the-swindle.html&quot;&gt;iThings&lt;/a&gt; does
+all of these, and so does Windows on mobile devices with ARM chips.
+Windows, mobile phone firmware, and Google Chrome for Windows include a
+universal back door that allows some company to change the program
+remotely without asking permission. The Amazon Kindle has a back door
+that can erase books.&lt;/p&gt;
+
+&lt;p&gt;The use of nonfree software in the “internet of things” would turn it
+into the &lt;a href=&quot;https://archive.ieet.org/articles/rinesi20150806.html&quot;&gt;“internet of
+telemarketers”&lt;/a&gt;
+as well as the “internet of snoopers.”&lt;/p&gt;
+
+&lt;p&gt;With the goal of ending the injustice of nonfree software, the free
+software movement develops free programs so users can free themselves.
+We began in 1984 by developing the free operating system
+&lt;a href=&quot;https://gnu.org/gnu/thegnuproject.html&quot;&gt;GNU&lt;/a&gt;. Today, millions of computers run GNU,
+mainly in the &lt;a href=&quot;https://gnu.org/gnu/gnu-linux-faq.html&quot;&gt;GNU/Linux combination&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Distributing a program to users without freedom mistreats those users;
+however, choosing not to distribute the program does not mistreat
+anyone. If you write a program and use it privately, that does no wrong
+to others. (You do miss an opportunity to do good, but that’s not the
+same as doing wrong.) Thus, when we say all software must be free, we
+mean that every copy must come with the four freedoms, but we don’t
+mean that someone has an obligation to offer you a copy.&lt;/p&gt;
+
+&lt;h3 id=&quot;nonfree-software-and-saass&quot;&gt;Nonfree Software and SaaSS&lt;/h3&gt;
+
+&lt;p&gt;Nonfree software was the first way for companies to take control of
+people’s computing. Nowadays, there is another way, called Service as a
+Software Substitute, or SaaSS. That means letting someone else’s server
+do your own computing tasks.&lt;/p&gt;
+
+&lt;p&gt;SaaSS doesn’t mean the programs on the server are nonfree (though they
+often are). Rather, using SaaSS causes the same injustices as using a
+nonfree program: they are two paths to the same bad place. Take the
+example of a SaaSS translation service: The user sends text to the
+server, and the server translates it (from English to Spanish, say) and
+sends the translation back to the user. Now the job of translating is
+under the control of the server operator rather than the user.&lt;/p&gt;
+
+&lt;p&gt;If you use SaaSS, the server operator controls your computing. It
+requires entrusting all the pertinent data to the server operator, which
+will be forced to show it to the state as well—&lt;a href=&quot;https://gnu.org/philosophy/who-does-that-server-really-serve.html&quot;&gt;who does that server
+really serve, after
+all?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;primary-and-secondary-injustices&quot;&gt;Primary And Secondary Injustices&lt;/h3&gt;
+
+&lt;p&gt;When you use proprietary programs or SaaSS, first of all you do wrong to
+yourself, because it gives some entity unjust power over you. For your
+own sake, you should escape. It also wrongs others if you make a promise
+not to share. It is evil to keep such a promise, and a lesser evil to
+break it; to be truly upright, you should not make the promise at all.&lt;/p&gt;
+
+&lt;p&gt;There are cases where using nonfree software puts pressure directly on
+others to do likewise. Skype is a clear example: when one person uses
+the nonfree Skype client software, it requires another person to use
+that software too—thus both surrender their freedom. (Google Hangouts
+have the same problem.) It is wrong even to suggest using such programs.
+We should refuse to use them even briefly, even on someone else’s
+computer.&lt;/p&gt;
+
+&lt;p&gt;Another harm of using nonfree programs and SaaSS is that it rewards the
+perpetrator, encouraging further development of that program or
+“service,” leading in turn to even more people falling under the
+company’s thumb.&lt;/p&gt;
+
+&lt;p&gt;All the forms of indirect harm are magnified when the user is a public
+entity or a school.&lt;/p&gt;
+
+&lt;h3 id=&quot;free-software-and-the-state&quot;&gt;Free Software and the State&lt;/h3&gt;
+
+&lt;p&gt;Public agencies exist for the people, not for themselves. When they do
+computing, they do it for the people. They have a duty to maintain full
+control over that computing so that they can assure it is done properly
+for the people. (This constitutes the computational sovereignty of the
+state.) They must never allow control over the state’s computing to
+fall into private hands.&lt;/p&gt;
+
+&lt;p&gt;To maintain control of the people’s computing, public agencies must not
+do it with proprietary software (software under the control of an entity
+other than the state). And they must not entrust it to a service
+programmed and run by an entity other than the state, since this would
+be SaaSS.&lt;/p&gt;
+
+&lt;p&gt;Proprietary software has no security at all in one crucial
+case—against its developer. And the developer may help others attack.
+&lt;a href=&quot;https://arstechnica.com/information-technology/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/&quot;&gt;Microsoft shows Windows bugs to the
+NSA&lt;/a&gt;
+(the US government digital spying agency) before fixing them. We do not
+know whether Apple does likewise, but it is under the same government
+pressure as Microsoft. If the government of any other country uses such
+software, it endangers national security. Do you want the NSA to break
+into your government’s computers? See our &lt;a href=&quot;https://gnu.org/philosophy/government-free-software.html&quot;&gt;suggested policies for
+governments to promote free
+software&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;free-software-and-education&quot;&gt;Free Software and Education&lt;/h3&gt;
+
+&lt;p&gt;Schools (and this includes all educational activities) influence the
+future of society through what they teach. They should teach exclusively
+free software, so as to use their influence for the good. To teach a
+proprietary program is to implant dependence, which goes against the
+mission of education. By training in use of free software, schools will
+direct society’s future towards freedom, and help talented programmers
+master the craft.&lt;/p&gt;
+
+&lt;p&gt;They will also teach students the habit of cooperating, helping other
+people. Each class should have this rule: “Students, this class is a
+place where we share our knowledge. If you bring software to class, you
+may not keep it for yourself. Rather, you must share copies with the
+rest of the class—including the program’s source code, in case
+someone else wants to learn. Therefore, bringing proprietary software to
+class is not permitted except to reverse engineer it.”&lt;/p&gt;
+
+&lt;p&gt;Proprietary developers would have us punish students who are good enough
+at heart to share software and thwart those curious enough to want to
+change it. This means a bad education. See more discussion about &lt;a href=&quot;https://gnu.org/education/education.html&quot;&gt;the
+use of free software in schools&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;free-software-more-than-advantages&quot;&gt;Free Software: More Than “Advantages”&lt;/h3&gt;
+
+&lt;p&gt;I’m often asked to describe the “advantages” of free software. But the
+word “advantages” is too weak when it comes to freedom. Life without
+freedom is oppression, and that applies to computing as well as every
+other activity in our lives. We must refuse to give the developers of
+the programs or computing services control over the computing we do.
+This is the right thing to do, for selfish reasons; but not solely for
+selfish reasons.&lt;/p&gt;
+
+&lt;p&gt;Freedom includes the freedom to cooperate with others. Denying people
+that freedom means keeping them divided, which is the start of a scheme
+to oppress them. In the free software community, we are very much aware
+of the importance of the freedom to cooperate because our work consists
+of organized cooperation. If your friend comes to visit and sees you use
+a program, she might ask for a copy. A program which stops you from
+redistributing it, or says you’re “not supposed to,” is antisocial.&lt;/p&gt;
+
+&lt;p&gt;In computing, cooperation includes redistributing exact copies of a
+program to other users. It also includes distributing your changed
+versions to them. Free software encourages these forms of cooperation,
+while proprietary software forbids them. It forbids redistribution of
+copies, and by denying users the source code, it blocks them from making
+changes. SaaSS has the same effects: if your computing is done over the
+web in someone else’s server, by someone else’s copy of a program, you
+can’t see it or touch the software that does your computing, so you
+can’t redistribute it or change it.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;We deserve to have control of our own computing. How can we win this
+control?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;By rejecting nonfree software on the computers we own or regularly
+use, and rejecting SaaSS.&lt;/li&gt;
+  &lt;li&gt;By &lt;a href=&quot;https://gnu.org/licenses/license-recommendations.html&quot;&gt;developing free software&lt;/a&gt; (for those of us
+who are programmers.)&lt;/li&gt;
+  &lt;li&gt;By refusing to develop or promote nonfree software or SaaSS.&lt;/li&gt;
+  &lt;li&gt;By &lt;a href=&quot;https://gnu.org/help/help.html&quot;&gt;spreading these ideas to others&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;By &lt;a href=&quot;https://gnu.org/philosophy/saying-no-even-once.html&quot;&gt;saying no and stating our reasons&lt;/a&gt; when we are invited to run a nonfree program.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We and thousands of users have done this since 1984, which is how we now
+have the free GNU/Linux operating system that anyone—programmer or
+not—can use. Join our cause, as a programmer or an activist. Let’s
+make all computer users free.&lt;/p&gt;</content><author><name>Richard Stallman</name></author><summary type="html">This is an article from the GNU Project by RMS, which I believe to be thought-provoking. The original article is at https://www.gnu.org/philosophy/free-software-even-more-important.html</summary></entry><entry><title type="html">Measures Governments Can Use to Promote Free Software</title><link href="https://aveniracademia.org/2021/10/24/government-and-free-software.html" rel="alternate" type="text/html" title="Measures Governments Can Use to Promote Free Software" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/24/government-and-free-software</id><content type="html" xml:base="https://aveniracademia.org/2021/10/24/government-and-free-software.html">&lt;p&gt;This is a redistribution of &lt;a href=&quot;https://www.gnu.org/philosophy/government-free-software.html&quot;&gt;https://www.gnu.org/philosophy/government-free-software.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This article suggests policies for a strong and firm effort to promote
+free software within the state, and to lead the rest of the country
+towards software freedom.&lt;/p&gt;
+
+&lt;p&gt;The mission of the state is to organize society for the freedom and
+well-being of the people. One aspect of this mission, in the computing
+field, is to encourage users to adopt free software: &lt;a href=&quot;/philosophy/free-sw.html&quot;&gt;software that respects the users’ freedom&lt;/a&gt;. A proprietary
+(nonfree) program tramples the freedom of those that use it; it is a
+social problem that the state should work to eradicate.&lt;/p&gt;
+
+&lt;p&gt;The state needs to insist on free software in its own computing for the
+sake of its computational sovereignty (the state’s control over its own
+computing). All users deserve control over their computing, but the
+state has a responsibility to the people to maintain control over the
+computing it does on their behalf. Most government activities now depend
+on computing, and its control over those activities depends on its
+control over that computing. Losing this control in an agency whose
+mission is critical undermines national security.&lt;/p&gt;
+
+&lt;p&gt;Moving state agencies to free software can also provide secondary
+benefits, such as saving money and encouraging local software support
+businesses.&lt;/p&gt;
+
+&lt;p&gt;In this text, “state entities” refers to all levels of government, and
+means public agencies including schools, public-private partnerships,
+largely state-funded activities such as charter schools, and “private”
+corporations controlled by the state or established with special
+privileges or functions by the state.&lt;/p&gt;
+
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;The most important policy concerns education, since that shapes the
+future of the country:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teach only free software&lt;/strong&gt;&lt;br /&gt;
+Educational activities, or at least those of state entities, must
+teach only free software (thus, they should never lead students to
+use a nonfree program), and should teach the civic reasons for
+insisting on free software. To teach a nonfree program is to teach
+dependence, which is contrary to the mission of the school.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-state-and-the-public&quot;&gt;The State and the Public&lt;/h3&gt;
+
+&lt;p&gt;Also crucial are state policies that influence what software individuals
+and organizations use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Never require nonfree programs&lt;/strong&gt;&lt;br /&gt;
+Laws and public sector practices must be changed so that they never
+require or pressure individuals or organizations to use a nonfree
+program. They should also discourage communication and publication
+practices that imply such consequences (including &lt;a href=&quot;https://www.defectivebydesign.org/what_is_drm_digital_restrictions_management&quot;&gt;Digital Restrictions Management&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Distribute only free software&lt;/strong&gt;&lt;br /&gt;
+Whenever a state entity distributes software to the public,
+including programs included in or specified by its web pages, it
+must be distributed as free software, and must be capable of running
+on a platform containing exclusively free software.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;State web sites&lt;/strong&gt;&lt;br /&gt;
+State entity web sites and network services must be designed so that
+users can use them, without disadvantage, by means of free software
+exclusively.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Free formats and protocols&lt;/strong&gt;&lt;br /&gt;
+State entities must use only file formats and communication
+protocols that are well supported by free software, preferably with
+published specifications. (We do not state this in terms of
+“standards” because it should apply to nonstandardized interfaces as
+well as standardized ones.) For example, they must not distribute
+audio or video recordings in formats that require Flash or nonfree
+codecs, and public libraries must not distribute works with Digital
+Restrictions Management.&lt;/p&gt;
+
+    &lt;p&gt;To support the policy of distributing publications and works in
+freedom-respecting formats, the state must insist that all reports
+developed for it be delivered in freedom-respecting formats.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Untie computers from licenses&lt;/strong&gt;&lt;br /&gt;
+Sale of computers must not require purchase of a proprietary
+software license. The seller should be required by law to offer the
+purchaser the option of buying the computer without the proprietary
+software and without paying the license fee.&lt;/p&gt;
+
+    &lt;p&gt;The imposed payment is a secondary wrong, and should not distract us
+from the essential injustice of proprietary software, the loss of
+freedom which results from using it. Nonetheless, the abuse of
+forcing users to pay for it gives certain proprietary software
+developers an additional unfair advantage, detrimental to users’
+freedom. It is proper for the state to prevent this abuse.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;computational-sovereignty&quot;&gt;Computational Sovereignty&lt;/h3&gt;
+
+&lt;p&gt;Several policies affect the computational sovereignty of the state.
+State entities must maintain control over their computing, not cede
+control to private hands. These points apply to all computers, including
+smartphones.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Migrate to free software&lt;/strong&gt;&lt;br /&gt;
+State entities must migrate to free software, and must not install,
+or continue using, any nonfree software except under a temporary
+exception. Only one agency should have the authority to grant these
+temporary exceptions, and only when shown compelling reasons. This
+agency’s goal should be to reduce the number of exceptions to zero.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Develop free IT solutions&lt;/strong&gt;&lt;br /&gt;
+When a state entity pays for development of a computing solution,
+the contract must require it be delivered as free software, and that
+it be designed such that one can both run it and develop it on a
+100%-free environment. All contracts must require this, so that if
+the developer does not comply with these requirements, the work
+cannot be paid for.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Choose computers for free software&lt;/strong&gt;&lt;br /&gt;
+When a state entity buys or leases computers, it must choose among
+the models that come closest, in their class, to being capable of
+running without any proprietary software. The state should maintain,
+for each class of computers, a list of the models authorized based
+on this criterion. Models available to both the public and the state
+should be preferred to models available only to the state.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Negotiate with manufacturers&lt;/strong&gt;&lt;br /&gt;
+The state should negotiate actively with manufacturers to bring
+about the availability in the market (to the state and the public)
+of suitable hardware products, in all pertinent product areas, that
+require no proprietary software.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Unite with other states&lt;/strong&gt;&lt;br /&gt;
+The state should invite other states to negotiate collectively with
+manufacturers about suitable hardware products. Together they will
+have more clout.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;computational-sovereignty-ii&quot;&gt;Computational Sovereignty II&lt;/h3&gt;
+
+&lt;p&gt;The computational sovereignty (and security) of the state includes
+control over the computers that do the state’s work. This requires
+avoiding &lt;a href=&quot;https://gnu.org/philosophy/who-does-that-server-really-serve.html&quot;&gt;Service as a Software Substitute&lt;/a&gt;, unless
+the service is run by a state agency under the same branch of
+government, as well as other practices that diminish the state control
+over its computing. Therefore,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;State must control its computers&lt;/strong&gt;&lt;br /&gt;
+Every computer that the state uses must belong to or be leased by
+the same branch of government that uses it, and that branch must not
+cede to outsiders the right to decide who has physical access to the
+computer, who can do maintenance (hardware or software) on it, or
+what software should be installed in it. If the computer is not
+portable, then while in use it must be in a physical space of which
+the state is the occupant (either as owner or as tenant).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;influence-development&quot;&gt;Influence Development&lt;/h3&gt;
+
+&lt;p&gt;State policy affects free and nonfree software development:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Encourage free&lt;/strong&gt;&lt;br /&gt;
+The state should encourage developers to create or enhance free
+software and make it available to the public, e.g. by tax breaks and
+other financial incentive. Contrariwise, no such incentives should
+be granted for development, distribution or use of nonfree software.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Don’t encourage nonfree&lt;/strong&gt;&lt;br /&gt;
+In particular, proprietary software developers should not be able to
+“donate” copies to schools and claim a tax write-off for the nominal
+value of the software. Proprietary software is not legitimate in a
+school.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;e-waste&quot;&gt;E-waste&lt;/h3&gt;
+
+&lt;p&gt;Freedom should not imply e-waste:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Replaceable software&lt;/strong&gt;&lt;br /&gt;
+Many modern computers are designed to make it impossible to replace
+their preloaded software with free software. Thus, the only way to
+free them is to junk them. This practice is harmful to society.&lt;/p&gt;
+
+    &lt;p&gt;Therefore, it should be illegal, or at least substantially
+discouraged through heavy taxation, to sell, import or distribute in
+quantity a new computer (that is, not second-hand) or computer-based
+product for which secrecy about hardware interfaces or intentional
+restrictions prevent users from developing, installing and using
+replacements for any and all of the installed software that the
+manufacturer could upgrade. This would apply, in particular, to any
+device on which
+&lt;a href=&quot;https://gnu.org/proprietary/proprietary-jails.html&quot;&gt;“jailbreaking”&lt;/a&gt; is needed to
+install a different operating system, or in which the interfaces for
+some peripherals are secret.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;technological-neutrality&quot;&gt;Technological neutrality&lt;/h3&gt;
+
+&lt;p&gt;With the measures in this article, the state can recover control over
+its computing, and lead the country’s citizens, businesses and
+organizations towards control over their computing. However, some object
+on the grounds that this would violate the “principle” of technological
+neutrality.&lt;/p&gt;
+
+&lt;p&gt;The idea of technological neutrality is that the state should not impose
+arbitrary preferences on technical choices. Whether that is a valid
+principle is disputable, but it is limited in any case to issues that
+are merely technical. The measures advocated here address issues of
+ethical, social and political importance, so they are &lt;a href=&quot;https://gnu.org/philosophy/technological-neutrality.html&quot;&gt;outside the scope of &lt;em&gt;technological&lt;/em&gt; neutrality&lt;/a&gt;. Only those who
+wish to subjugate a country would suggest that its government be
+“neutral” about its sovereignty or its citizens’ freedom.&lt;/p&gt;</content><author><name>Richard Stallman</name></author><summary type="html">This is a redistribution of https://www.gnu.org/philosophy/government-free-software.html.</summary></entry><entry><title type="html">Saying No to unjust computing even once is help</title><link href="https://aveniracademia.org/2021/10/24/say-no-once.html" rel="alternate" type="text/html" title="Saying No to unjust computing even once is help" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/24/say-no-once</id><content type="html" xml:base="https://aveniracademia.org/2021/10/24/say-no-once.html">&lt;p&gt;This is a redistribution of &lt;a href=&quot;https://www.gnu.org/philosophy/saying-no-even-once.html&quot;&gt;https://www.gnu.org/philosophy/saying-no-even-once.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A misunderstanding is circulating that the GNU Project demands you run
+100% &lt;a href=&quot;/philosophy/free-sw.html&quot;&gt;free software&lt;/a&gt;, all the time. Anything
+less (90%?), and we will tell you to get lost—they say. Nothing could
+be further from the truth.&lt;/p&gt;
+
+&lt;p&gt;Our ultimate goal is &lt;a href=&quot;https://gnu.org/philosophy/free-software-even-more-important.html&quot;&gt;digital freedom for all&lt;/a&gt;, a world
+without nonfree software. Some of us, who have made campaigning for
+digital freedom our goal, reject all nonfree programs. However, as a
+practical matter, even a little step towards that goal is good. A walk
+of a thousand miles consists of lots of steps. Each time you don’t
+install some nonfree program, or decide not to run it that day, that is
+a step towards your own freedom. Each time you decline to run a nonfree
+program with others, you show them a wise example of long-term thinking.
+That is a step towards freedom for the world.&lt;/p&gt;
+
+&lt;p&gt;If you’re caught in a web of nonfree programs, you’re surely looking
+for a chance to pull a few strands off of your body. Each one pulled off
+is an advance.&lt;/p&gt;
+
+&lt;p&gt;Each time you tell the people in some activity, “I’d rather use Zoom
+less—please count me out today,” you help the free software movement.
+“I’d like to do this with you, but with Zoom on the other side of the
+scale, I’ve decided to decline.” If you accepted the nonfree software
+before, you could say this: “I’d like to participate, but the software
+we are using is not good for us. I’ve decided I should cut down.” Once
+in a while, you may convince them to use free software instead. At least
+they will learn that some people care about freedom enough to decline
+participation for freedom’s sake.&lt;/p&gt;
+
+&lt;p&gt;If you say no, on one occasion, to conversing with someone or some group
+via Skype, you have helped. If you say no, on one occasion, to
+conversing via WhatsApp, Facebook, or Slack, you have helped. If you say
+no, on one occasion, to editing something via Google Docs, you have
+helped. If you say no to registering for one meeting in eventbrite.com
+or meetup.com, you have helped. If you tell one organization you won’t
+use its “portal” or app, so you will deal with it by phone, that helps.
+Of course, you help more if you stick to your refusal (with kind
+firmness, of course) and don’t let the others change your mind.&lt;/p&gt;
+
+&lt;p&gt;Steps add up. If on another day you decline the nonfree program again,
+you will have helped again. If you say no a few times a week, that adds
+up over time. When people see you say no, even once, you may inspire
+them to follow your example.&lt;/p&gt;
+
+&lt;p&gt;To give help consistently, you can make this refusal a firm practice,
+but refusing occasionally is still help. You will help more if you
+reject several of the nonfree programs that communities have blindly
+swallowed. Would you ever want to reject them all? There is no need to
+decide that now.&lt;/p&gt;
+
+&lt;p&gt;So tell someone, “Thanks for inviting me, but
+Zoom/Skype/WhatsApp/whichever is a freedom-denying program, and almost
+surely snoops on its users; please count me out. I want a different kind
+of world, and by declining to use it today I am taking a step towards
+that world.”&lt;/p&gt;
+
+&lt;p&gt;The FSF recommends &lt;a href=&quot;https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch&quot;&gt;freedom-respecting methods&lt;/a&gt;
+for the sorts of communication that unjust systems do. If one of them
+would be usable, you could add, “If we use XYZ for this conversation, or
+some other libre software, I could participate.”&lt;/p&gt;
+
+&lt;p&gt;You can take one step. And once you’ve done it, sooner or later you can
+do it again. Eventually you may find you have changed your practices; if
+you get used to saying no to some nonfree program, you could do it most
+of the time, maybe even every time. Not only will you have gained an
+increment of freedom; you will have helped your whole community by
+spreading awareness of the issue.&lt;/p&gt;</content><author><name>Richard Stallman</name></author><summary type="html">This is a redistribution of https://www.gnu.org/philosophy/saying-no-even-once.html.</summary></entry><entry><title type="html">Pumpkin Markets and One Bad Apple</title><link href="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html" rel="alternate" type="text/html" title="Pumpkin Markets and One Bad Apple" /><published>2021-10-21T00:00:00+08:00</published><updated>2021-10-21T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple</id><content type="html" xml:base="https://aveniracademia.org/2021/10/21/pumpkin-markets-and-one-bad-apple.html">&lt;p&gt;This message is fowarded from the Free Software Foundation’s
 “Free Software Supporter” mailing list. The original message is
 as below.&lt;/p&gt;
 
@@ -365,4 +940,24 @@ a politicol-philosophical opinion paper.&lt;/p&gt;</content><author><name>Andrew
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://audio-video.gnu.org/video/rms-2020-12-04-waterloo-why-operating-systems-and-other-software-should-be-free.webm&quot;&gt;Richard Stallman’s Talk on Free Operating Systems&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Subscribe to this website using ways described on &lt;a href=&quot;https://aveniracademia.org/about/&quot;&gt;the About page&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Andrew Yu</name></author><summary type="html">What is libre software? “Free software” means software that respects users’ freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”. We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis. You may have paid money to get copies of a free program, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Andrew Yu</name></author><summary type="html">What is libre software? “Free software” means software that respects users’ freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”. We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis. You may have paid money to get copies of a free program, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.</summary></entry><entry><title type="html">Minimalism</title><link href="https://aveniracademia.org/2021/08/25/minimalism.html" rel="alternate" type="text/html" title="Minimalism" /><published>2021-08-25T00:00:00+08:00</published><updated>2021-08-25T00:00:00+08:00</updated><id>https://aveniracademia.org/2021/08/25/minimalism</id><content type="html" xml:base="https://aveniracademia.org/2021/08/25/minimalism.html">&lt;p&gt;The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera.&lt;/p&gt;
+
+&lt;p&gt;In the COVID-19 pandemic, computers help people work from home, which prevented the economy from going into a full-blown stall. As a middle school student, I saw the department of education of Shanghai hire teachers to record lectures which get distributed over TV and the Internet. Schools use meeting software, such as Tencent Meetings, to teach students at home. If it wasn’t for the Internet, so many people would have lost jobs, and society would be inoperative.&lt;/p&gt;
+
+&lt;p&gt;Most of the software people use these days are Proprietary Software—nobody except the copyright holder and specially authorized people are allowed to edit the program to their needs, audit how the program runs, etc.&lt;/p&gt;
+
+&lt;p&gt;Note that, in this document, free always refers to freedom, rather than price, unless otherwise specified.&lt;/p&gt;
+
+&lt;p&gt;LaTeX was used to typeset this document (the original version, not the webpage). I argue that LaTeX, though a sophisticated, free and high-quality typesetting system, is poorly optimized. For example, to get cross references right, LaTeX has to compile the document twice. The first time it compiles the document, recording all cross references. The second time is when it actually writes the correct cross reference numbers into the output. Compiling two times is redundant—it makes sense to go through the cross references twice to get them right, but it is utterly unnecessary to compile and produce output twice. Counting references is a fast task, but when it’s mixed up with producing output, a slow task, the overall speed decreases dramatically.&lt;/p&gt;
+
+&lt;p&gt;LaTeX is built on TeX, which sadly is designed with typesetters in mind, not authors or book designers. To have (good, sane and needed) things like cross references, maybe we need something that’s not just a macro set based on a typesetting engine. However, I believe that a feature like implementing cross references shouldn’t just be confined to LaTeX, TeX and typesetting—it has use-cases in other places, for example, giving cross references in plain text documents.&lt;/p&gt;
+
+&lt;p&gt;Do one thing, and do it well.
+There ought to be a program, to just handle your cross references, in a standard way. It does string manipulation with a tool like sed, which replaces the \refs with the correct number, and removes the \labels. Ideally, this utility should allow the user to choose which patterns to use as the label and reference commands, since this general-prpose utility should be designed to cover general use-cases.&lt;/p&gt;
+
+&lt;p&gt;This goes similarly for other utilities, of course. Converting TeX code to HTML, sending strings to IRC, you name it. We don’t want every GUI program to have it’s own emoji picker. We want one for the whole system. Furthermore, we don’t want to write a menu system just for the emoji picker. We want a general menu system, such as dmenu. The Suckless people make good software that mostly adheres to this principles, and many of the below.&lt;/p&gt;
+
+&lt;p&gt;Use standard pipes.
+To be specific, use standard input/output for general utilities and FIFO pipes for background daemons and other things like window managers.&lt;/p&gt;
+
+&lt;p&gt;(To be continued)&lt;/p&gt;</content><author><name>Andrew Yu</name></author><summary type="html">The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera.</summary></entry></feed>

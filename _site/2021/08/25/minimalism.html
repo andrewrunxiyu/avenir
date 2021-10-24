@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Minimalism | Avenir Academia</title>
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="Minimalism" />
+<meta name="author" content="Andrew Yu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera." />
+<meta property="og:description" content="The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera." />
+<link rel="canonical" href="https://aveniracademia.org/2021/08/25/minimalism.html" />
+<meta property="og:url" content="https://aveniracademia.org/2021/08/25/minimalism.html" />
+<meta property="og:site_name" content="Avenir Academia" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-08-25T00:00:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Minimalism" />
+<script type="application/ld+json">
+{"datePublished":"2021-08-25T00:00:00+08:00","description":"The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera.","headline":"Minimalism","url":"https://aveniracademia.org/2021/08/25/minimalism.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://aveniracademia.org/2021/08/25/minimalism.html"},"author":{"@type":"Person","name":"Andrew Yu"},"@type":"BlogPosting","dateModified":"2021-08-25T00:00:00+08:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://aveniracademia.org/feed.xml" title="Avenir Academia" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Avenir Academia</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Minimalism</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2021-08-25T00:00:00+08:00" itemprop="datePublished">
+        Aug 25, 2021
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Andrew Yu</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>The world depends on computers. Computers help us complete daily tasks such as typesetting, fetching information, et cetera.</p>
+
+<p>In the COVID-19 pandemic, computers help people work from home, which prevented the economy from going into a full-blown stall. As a middle school student, I saw the department of education of Shanghai hire teachers to record lectures which get distributed over TV and the Internet. Schools use meeting software, such as Tencent Meetings, to teach students at home. If it wasn’t for the Internet, so many people would have lost jobs, and society would be inoperative.</p>
+
+<p>Most of the software people use these days are Proprietary Software—nobody except the copyright holder and specially authorized people are allowed to edit the program to their needs, audit how the program runs, etc.</p>
+
+<p>Note that, in this document, free always refers to freedom, rather than price, unless otherwise specified.</p>
+
+<p>LaTeX was used to typeset this document (the original version, not the webpage). I argue that LaTeX, though a sophisticated, free and high-quality typesetting system, is poorly optimized. For example, to get cross references right, LaTeX has to compile the document twice. The first time it compiles the document, recording all cross references. The second time is when it actually writes the correct cross reference numbers into the output. Compiling two times is redundant—it makes sense to go through the cross references twice to get them right, but it is utterly unnecessary to compile and produce output twice. Counting references is a fast task, but when it’s mixed up with producing output, a slow task, the overall speed decreases dramatically.</p>
+
+<p>LaTeX is built on TeX, which sadly is designed with typesetters in mind, not authors or book designers. To have (good, sane and needed) things like cross references, maybe we need something that’s not just a macro set based on a typesetting engine. However, I believe that a feature like implementing cross references shouldn’t just be confined to LaTeX, TeX and typesetting—it has use-cases in other places, for example, giving cross references in plain text documents.</p>
+
+<p>Do one thing, and do it well.
+There ought to be a program, to just handle your cross references, in a standard way. It does string manipulation with a tool like sed, which replaces the \refs with the correct number, and removes the \labels. Ideally, this utility should allow the user to choose which patterns to use as the label and reference commands, since this general-prpose utility should be designed to cover general use-cases.</p>
+
+<p>This goes similarly for other utilities, of course. Converting TeX code to HTML, sending strings to IRC, you name it. We don’t want every GUI program to have it’s own emoji picker. We want one for the whole system. Furthermore, we don’t want to write a menu system just for the emoji picker. We want a general menu system, such as dmenu. The Suckless people make good software that mostly adheres to this principles, and many of the below.</p>
+
+<p>Use standard pipes.
+To be specific, use standard input/output for general utilities and FIFO pipes for background daemons and other things like window managers.</p>
+
+<p>(To be continued)</p>
+
+  </div><a class="u-url" href="/2021/08/25/minimalism.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <ul class="contact-list">
+          
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>An attempt to bring free software to the masses.</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

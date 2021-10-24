@@ -23,3 +23,5 @@ This goes similarly for other utilities, of course. Converting TeX code to HTML,
 
 Use standard pipes.
 To be specific, use standard input/output for general utilities and FIFO pipes for background daemons and other things like window managers.
+
+(To be continued)
